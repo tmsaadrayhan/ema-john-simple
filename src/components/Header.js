@@ -12,7 +12,7 @@ const header = () => {
             <nav className='ps-3'>
                 <a href="/shop">Shop</a>
                 <a href="/review">Order Review</a>
-                <a href="/manage"> Manage Inventory</a>
+                <a href="/manage"> Orders</a>
             </nav>
 
         </div>
